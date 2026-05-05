@@ -25,13 +25,18 @@ const student = {
   specialization: "Full-Stack Development & Data Science",
   passions: ["Web Development", "Python Programming", "Open Source"],
   
+  currentProjects: {
+    hosting: "Netlify",
+    description: "Deploying amazing projects on Netlify"
+  },
+  
   bio: {
-    english: "🎓 Passionate BCA student building powerful applications with Python, JavaScript, and modern web technologies. Always exploring new frontiers in tech! 🚀",
-    hindi: "🎓 BCA स्टूडेंट जो Python, JavaScript और आधुनिक web technologies के साथ powerful applications बनाता हूँ। हमेशा tech में नई सीमाएं खोज रहा हूँ! 🚀"
+    english: "🎓 Passionate BCA student building powerful applications with Python, JavaScript, and modern web technologies. Currently working on Netlify. Always exploring new frontiers in tech! 🚀",
+    hindi: "🎓 BCA स्टूडेंट जो Python, JavaScript और आधुनिक web technologies के साथ powerful applications बनाता हूँ। वर्तमान में Netlify पर काम कर रहा हूँ। हमेशा tech में नई सीमाएं खोज रहा हूँ! 🚀"
   },
   
   currentlyDoing: [
-    "🔭 Building Full-Stack Web Applications",
+    "🔭 Building Full-Stack Web Applications on Netlify",
     "🔬 Exploring AI/ML with Python",
     "📊 Data Analysis & Visualization",
     "🛠️ Contributing to Open Source"
@@ -66,6 +71,7 @@ const student = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### **Data Science & Analytics | डेटा साइंस**
 
@@ -131,7 +137,7 @@ const student = {
 ### **Advanced Topics**
 - 🤖 **Artificial Intelligence & ML**
 - 📊 **Data Science & Analytics**
-- ☁️ **Cloud Computing** - AWS, Firebase
+- ☁️ **Cloud Computing** - AWS, Firebase, Netlify
 - 🔄 **DevOps & CI/CD** - Docker, GitHub Actions
 
 </div>
@@ -142,8 +148,8 @@ const student = {
 
 <div align="center">
 
-- 🔭 **Building:** Powerful Python applications with Django & Flask
-- **निर्माण:** Django और Flask के साथ शक्तिशाली Python applications
+- 🔭 **Building:** Full-Stack Web Applications on Netlify
+- **निर्माण:** Netlify पर Full-Stack Web Applications
 
 - 🌱 **Learning:** Machine Learning, AI, and Advanced Data Science
 - **सीखना:** Machine Learning, AI, और Advanced Data Science
@@ -151,11 +157,11 @@ const student = {
 - 👯 **Contributing:** Open Source Python Projects
 - **योगदान:** ओपन सोर्स Python projects में
 
-- 💬 **Ask me about:** Python, Full-Stack Development, Data Science, Web Scraping
-- **मुझसे पूछें:** Python, Full-Stack Development, Data Science, Web Scraping
+- 💬 **Ask me about:** Python, Full-Stack Development, Netlify Deployment, Data Science
+- **मुझसे पूछें:** Python, Full-Stack Development, Netlify Deployment, Data Science
 
-- ⚡ **Fun fact:** I can write Python code that makes your data speak!
-- **मजेदार तथ्य:** मैं Python code लिख सकता हूँ जो आपके data को बोलने देता है!
+- ⚡ **Fun fact:** I deploy awesome projects on Netlify with zero downtime!
+- **मजेदार तथ्य:** मैं Netlify पर zero downtime के साथ awesome projects deploy करता हूँ!
 
 </div>
 
@@ -165,17 +171,17 @@ const student = {
 
 <div align="center">
 
-### 🚀 **Python Power Projects**
+### 🚀 **Python Power Projects on Netlify**
 
 **Coming Soon!** 🔥
 
 <!--
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| AI Data Analyzer | Analyze datasets with ML | Python, Pandas, Scikit-learn | [Repo](link) |
-| Django Blog Platform | Full-featured blogging system | Django, PostgreSQL, React | [Repo](link) |
-| Web Scraper | Automated data extraction | BeautifulSoup, Selenium | [Repo](link) |
-| Stock Predictor | ML model for stock prediction | TensorFlow, Pandas | [Repo](link) |
+| Project | Description | Tech Stack | Deployed On | Link |
+|---------|-------------|-----------|-------------|------|
+| AI Data Analyzer | Analyze datasets with ML | Python, Pandas, Scikit-learn | Netlify | [Repo](link) |
+| Django Blog Platform | Full-featured blogging system | Django, PostgreSQL, React | Netlify | [Repo](link) |
+| Web Scraper | Automated data extraction | BeautifulSoup, Selenium | Netlify | [Repo](link) |
+| Stock Predictor | ML model for stock prediction | TensorFlow, Pandas | Netlify | [Repo](link) |
 -->
 
 </div>
@@ -191,6 +197,7 @@ const student = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azmatullahsofy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azmatullahmd113@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://azmatullahsofy.com)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com)
 
 </div>
 
@@ -204,7 +211,7 @@ const student = {
 - [x] Web Development Basics
 - [ ] Advanced Python & OOP
 - [ ] Machine Learning Mastery
-- [ ] Full-Stack Development
+- [ ] Full-Stack Development on Netlify
 - [ ] Cloud Computing (AWS/Azure)
 - [ ] Contribute to Major Open Source Projects
 - [ ] Build & Deploy Production Applications
@@ -226,6 +233,7 @@ const student = {
 📈 Intermediate (Year 2)
 ├── Advanced Python ✅
 ├── Full-Stack Development 🔄
+├── Netlify Deployment 🔄
 ├── Data Structures 🔄
 └── Database Design 🔄
 
@@ -256,6 +264,7 @@ from sklearn.model_selection import train_test_split
 def powerful_ml_pipeline(data):
     """
     A powerful Python pipeline for ML workflows
+    Deployable on Netlify with serverless functions
     """
     # Data Preparation
     X_train, X_test, y_train, y_test = train_test_split(
@@ -270,6 +279,7 @@ def powerful_ml_pipeline(data):
     return X_train_scaled, X_test_scaled, y_train, y_test
 
 # This is the power of Python! 🐍⚡
+# Deployed on Netlify for production use 🚀
 ```
 
 </div>
@@ -284,6 +294,7 @@ def powerful_ml_pipeline(data):
 - 🏅 **Python Specialist** - Data Science & Web Development
 - 💪 **Problem Solver** - DSA & Algorithm Expert
 - 🌟 **Tech Enthusiast** - Always Learning & Growing
+- 🚀 **Netlify Deployer** - Building & Hosting Amazing Projects
 
 </div>
 
@@ -304,6 +315,8 @@ def powerful_ml_pipeline(data):
 <br>
 
 **Made with ❤️ by Azmatullah Sofy - BCA Student & Python Power User** 🐍⚡
+
+**Currently Deploying on Netlify** 🚀
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=azmatullahsofy&color=00D9FF&style=flat-square&label=Profile+Views)
 

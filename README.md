@@ -70,7 +70,7 @@ BCA Student Portfolio - Professional & Modern
 ## 💬 Random Quote + Shayari + Mood Shot
 
 <!-- START_DYNAMIC_SECTION -->
-<p align="center"><b>Dynamic section loading...</b></p>
+<p align="center"><b>"Har din naya seekho — chhoti chhoti jeet se badi safalta banti hai."</b></p>
 <!-- END_DYNAMIC_SECTION -->
 
 ---
@@ -78,15 +78,16 @@ BCA Student Portfolio - Professional & Modern
 ## 📸 Visual Story
 
 <p align="center">
-  <img src="./assets/azmat-1.jpg" width="30%" alt="Azmat 1" />
-  <img src="./assets/azmat-2.jpg" width="30%" alt="Azmat 2" />
-  <img src="./assets/azmat-4.jpg" width="30%" alt="Azmat 4" />
+  <!-- If your images are not visible, please upload them to the assets/ folder in this repo. -->
+  <img src="./assets/azmat-6.jpg" width="220" alt="Azmat Profile" style="border-radius:12px;" />
+  <br/>
+  <strong>Tip:</strong> Upload your photos to the `assets/` folder (azmat-1.jpg ... azmat-6.jpg) so they appear here.
 </p>
 
 <p align="center">
+  <img src="./assets/azmat-1.jpg" width="30%" alt="Azmat 1" />
+  <img src="./assets/azmat-2.jpg" width="30%" alt="Azmat 2" />
   <img src="./assets/azmat-3.jpg" width="30%" alt="Azmat 3" />
-  <img src="./assets/azmat-5.jpg" width="30%" alt="Azmat 5" />
-  <img src="./assets/azmat-6.jpg" width="30%" alt="Azmat 6" />
 </p>
 
 ---
@@ -157,7 +158,7 @@ BCA Student Portfolio - Professional & Modern
 </td>
 <td width="33%">
 <h3 align="center">StudentHub</h3>
-<p align="center">A BCA student dashboard for notes, coding practice, and productivity tools.</p>
+<p align="center">A BCA student dashboard for notes, coding practice, and productivity tools. (Live: StudentHub page in this repo)</p>
 </td>
 <td width="33%">
 <h3 align="center">ANA Promo Page</h3>
@@ -174,13 +175,29 @@ BCA Student Portfolio - Professional & Modern
   <a href="https://github.com/azmatullahsofy">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://anaclasses.co.in/">
-    <img src="https://img.shields.io/badge/Website-ANA%20Classes-purple?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://linkedin.com/in/azmatullahsofy">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:azmatullah@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="https://instagram.com/azmuokavita">
+    <img src="https://img.shields.io/badge/Instagram-@azmuokavita-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@anaclasses521?si=QwcEMjgjDhXIMt9-">
+    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:azmatullahmd113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-azmatullahmd113@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
+---
+
+## 🔗 StudentHub (Live)
+
+Visit the StudentHub (a simple student dashboard demo hosted from this repo):
+
+- StudentHub (live): https://azmatullahsofy.github.io/azmatullahsofy/studenthub/
+
+(If not live yet, the page will be deployed automatically by the GitHub Pages workflow. See `.github/workflows/pages.yml`.)
 
 ---
 

@@ -1,13 +1,13 @@
 <!--
 Premium GitHub Profile for Md Azmatullah
-Replace YOUR_GITHUB_USERNAME with your actual username
+BCA Student Portfolio - Professional & Modern
 -->
 
 <h1 align="center">Md Azmatullah</h1>
 <h3 align="center">BCA Student • Future Software Engineer • Web Developer • Creative Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Turning+ideas+into+clean+code;BCA+student+with+big+dreams;Frontend+%2B+Programming+%2B+Creativity;Learning+daily+and+building+boldly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Turning+ideas+into+clean+code;BCA+student+with+passion;Web+Developer+in+Progress;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@ Replace YOUR_GITHUB_USERNAME with your actual username
   <a href="https://anaclasses.co.in/">
     <img src="https://img.shields.io/badge/Featured-anaclasses.co.in-6f42c1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ANA Classes" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0ea5e9" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=azmatullahsofy&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/azmatullahsofy?style=for-the-badge&color=0ea5e9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/azmatullahsofy?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Stars" />
 </p>
 
 ---
@@ -97,18 +97,25 @@ Replace YOUR_GITHUB_USERNAME with your actual username
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,git,github,vscode" />
 </p>
 
+### Languages & Tools:
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** Python, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Figma
+- **Other:** Java, C++, Data Structures & Algorithms
+
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=azmatullahsofy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=azmatullahsofy&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmatullahsofy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azmatullahsofy&theme=tokyonight" />
 </p>
 
 ---
@@ -164,11 +171,14 @@ Replace YOUR_GITHUB_USERNAME with your actual username
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/azmatullahsofy">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://anaclasses.co.in/">
     <img src="https://img.shields.io/badge/Website-ANA%20Classes-purple?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:azmatullah@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -177,7 +187,7 @@ Replace YOUR_GITHUB_USERNAME with your actual username
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/azmatullahsofy/azmatullahsofy/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---

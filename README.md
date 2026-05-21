@@ -4,7 +4,7 @@ BCA Student Portfolio - Professional & Modern
 -->
 
 <h1 align="center">Md Azmatullah</h1>
-<h3 align="center">BCA Student • Future Software Engineer • Web Developer • Creative Coder</h3>
+<h3 align="center">BCA Student • Web Developer • Creative Coder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Turning+ideas+into+clean+code;BCA+student+with+passion;Web+Developer+in+Progress;Creative+Problem+Solver" alt="Typing SVG" />
